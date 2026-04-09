@@ -19,7 +19,7 @@ body {
 .fold {
 	overflow: hidden;
 	width: calc(40vw + 1px);
-	height: 50vh;
+	height: 70vh;
 	will-change: transform;
 	background: #cec39e;
 }
